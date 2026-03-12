@@ -1,0 +1,13 @@
+<html>
+<head>
+	<title>短めの日本旅行</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="maincss.css" />
+</head>	
+<body>
+	<section>
+	<h1>イカ・マディナプレゼンス</h1>
+	<h2>短めの日本旅行日記</h2>
+	</section>
+</body>
+</html>
